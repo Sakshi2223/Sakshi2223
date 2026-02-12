@@ -1,4 +1,4 @@
-## Hi there, I'm Sakshi Augad 👋
+## Hi there, I'm Sakshi 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
