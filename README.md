@@ -19,7 +19,7 @@ Using Excel, SQL, and Power BI, I focus on building analysis that supports real 
 I value mentoring and thoughtful discussions, as explaining ideas sharpens understanding. I also appreciate quiet time in natural surroundings — it helps me reflect, think deeply, and approach problems with a calm and analytical mindset.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://(https://sakshi2223.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://sakshi2223.github.io/)
 
       
 ## 🛠️ Technical Skillset
